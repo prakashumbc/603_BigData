@@ -117,5 +117,11 @@ Big Data analysis is a continuously evolving field, and addressing these challen
 
 
 ## References
+Manyika, J., Chui, M., Brown, B., Bughin, J., Dobbs, R., Roxburgh, C., & Byers, A. H. (2011). Big data: The next frontier for innovation, competition, and productivity. McKinsey Global Institute.
+
+Davenport, T. H., & Harris, J. (2007). Competing on analytics: The new science of winning. Harvard Business Press.
+
+Provost, F., & Fawcett, T. (2013). Data science for business: What you need to know about data mining and data-analytic thinking. O'Reilly Media, Inc.
+![image](https://github.com/prakashumbc/603_BigData/assets/124118731/27e6e815-0b55-4111-8eaf-7f89a49e91b2)
 
 
